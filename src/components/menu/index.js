@@ -15,7 +15,6 @@ function Menu() {
         Novo vídeo
       </Button>
     </nav>
-
   );
 }
 

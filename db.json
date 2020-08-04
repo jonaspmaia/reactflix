@@ -12,26 +12,8 @@
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
-      }
-    },
-    {
-      "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
-    },
-    {
-      "id": 5,
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
+      "titulo": "Sustentabilidade",
+      "cor": "#9cd33b"
     }
   ],
   "videos": [
@@ -128,56 +110,38 @@
     {
       "id": 16,
       "categoriaId": 3,
-      "titulo": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+      "titulo": "O que eu como em um dia #11| Molho de laranja e tofu crocante",
+      "url": "https://youtu.be/GUhG7XaArJk"
     },
     {
       "id": 17,
-      "categoriaId": 4,
-      "titulo": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+      "categoriaId": 3,
+      "titulo": "Vegana com menos de R$50,00 por semana!",
+      "url": "https://youtu.be/vQ2ScFohM44"
     },
     {
       "id": 18,
-      "categoriaId": 4,
-      "titulo": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "categoriaId": 3,
+      "titulo": "Mudanças veganas na casa - Com Tayná Mota - CASA DE VERDADE",
+      "url": "https://youtu.be/43Oram_G_08"
     },
     {
       "id": 19,
-      "categoriaId": 4,
-      "titulo": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "categoriaId": 3,
+      "titulo": "5 Coisas que eu gostaria de saber  antes de virar vegana ",
+      "url": "https://youtu.be/QU8C4jYt6OM"
     },
     {
       "id": 20,
-      "categoriaId": 4,
+      "categoriaId": 3,
       "titulo": "Feitiço do Tempo",
       "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
     },
     {
       "id": 21,
       "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-    },
-    {
-      "id": 22,
-      "categoriaId": 5,
-      "titulo": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-    },
-    {
-      "id": 23,
-      "categoriaId": 5,
-      "titulo": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-    },
-    {
-      "id": 24,
-      "categoriaId": 5,
-      "titulo": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+      "titulo": "Como cuido da pele | Vegano, natural, minimalista ",
+      "url": "https://youtu.be/r2GMyJJC1mA"
     }
   ]
 }
